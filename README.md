@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @violfxx
-- 👀 I’m interested in front end developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on develope website and give me something about develop website knowledge 
-- 📫 How to reach me ...
+- 👋 Hi, I’m @violfxx from indonesia
+- 👀 I’m interested in Development Website
+- 🌱 I’m currently learning in IT TELKOM Purwokerto
+- 💞️ I’m looking to collaborate on develop website and give me knowledge about web design
 
 <!---
 violfxx/violfxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
