@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @violfxx from indonesia
-- 👀 I’m interested in Development Website
+- 👀 I’m interested in Development Website and UI UX 
 - 🌱 I’m currently learning in IT TELKOM Purwokerto
 - 💞️ I’m looking to collaborate on develop website and give me knowledge about web design
 
